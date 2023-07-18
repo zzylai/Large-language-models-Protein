@@ -1,9 +1,7 @@
 # Papers on Large-language-models-Protein
 ### Background
 
-We recently released a [review](https://arxiv.org/abs/1811.10775) of machine learning methods in protein engineering, but the field changes so fast and there are so many new papers that any static document will inevitably be missing important work. This format also allows us to broaden the scope beyond engineering-specific applications. We hope that this will be a useful resource for people interested in the field.
 
-To the best of our knowledge, this is the first public, collaborative list of machine learning papers on protein applications. We try to classify papers based on a combination of their applications and model type. If you have suggestions for other papers or categories, please make a pull request or issue!
 
 ### Format
 
@@ -12,18 +10,7 @@ Within each category, papers are listed in reverse chronological order (newest f
 ### Categories
 
 [Reviews](#reviews)  
-[Tools and datasets](#tools-and-datasets)  
-[Machine-learning guided directed evolution](#machine-learning-guided-directed-evolution)  
-[Representation learning](#representation-learning)  
-[Unsupervised variant prediction](#unsupervised-variant-prediction)  
-[Generative models](#generative-models)  
-[Biophysics](#biophysics)
-[Predicting stability](#predicting-stability)  
-[Predicting structure from sequence](#predicting-structure-from-sequence)  
-[Predicting sequence from structure](#predicting-sequence-from-structure)  
-[Classification, annotation, search, and alignments](#classification-annotation-search-and-alignments)  
-[Predicting interactions with other molecules](#predicting-interactions-with-other-molecules)  
-[Other supervised learning](#other-supervised-learning)
+
 
 ### Reviews   
 **Large language models generate functional protein sequences across diverse families**    
@@ -58,12 +45,4 @@ Noelia Ferruz, Steffen Schmidt, Birte Höcker
 **123**
 
 
-### Tools and datasets
-### Representation learning
-### Generative models
-### Biophysics
-### Predicting structure from sequence
-### Predicting sequence from structure
-### Classification, annotation, search, and alignments
-### Predicting interactions with other molecules
-### Other supervised learning
+
