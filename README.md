@@ -62,7 +62,7 @@
   
 - \[[2306.15912](https://arxiv.org/abs/2306.15912)\]   
   Protein-DNA binding sites prediction based on pre-trained protein language model and contrastive learning`2023.06`
-- \[[bbad217](https://doi.org/10.1093/bib/bbad217)\] 
+- \[[bbad217](https://doi.org/10.1093/bib/bbad217)\]  
   Improved structure-related prediction for insufficient homologous proteins using MSA enhancement and pre-trained language model`2023.06`
 - \[[bbad173](https://doi.org/10.1093/bib/bbad173)\]  
   Fast and accurate protein intrinsic disorder prediction by using a pretrained language model`2023.05 `\[[LMDisorder](https://github.com/biomed-AI/LMDisorder)\]
