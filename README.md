@@ -107,7 +107,7 @@
 ### 👥 Contributors
 ### 🎉 Contributing ( welcome ! )
 
-- ✨ Add a new paper or update an existing KG-related LLM paper.
+- ✨ Add a new paper or update an existing Protein-related LLM paper.
 - 🧐 Use the same format as existing entries to describe the work.
 - 😄 A very brief explanation why you think a paper should be added or updated is recommended (Not Neccessary) via **`Adding Issues`** or **`Pull Requests`**.
 
