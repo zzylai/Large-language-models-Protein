@@ -7,7 +7,7 @@
 
 😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**. 
 
-<!-- Details of summary and classification of papers are shown in [wiki](https://github.com/zjukg/KG-LLM-Papers/wiki). -->
+
 
 ## 🔔 News
 - **2023-07  We create this repository to maintain a paper list on *Protein and Large Language Models*.**
